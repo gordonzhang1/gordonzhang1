@@ -1,12 +1,3 @@
-<div align="center">
-  <img height="150" src="https://giphy.com/gifs/Q3aerKagxaI0lF3vas"  />
-</div>
-
-###
-
-
-###
-
 <h1 align="center">Hi Devs! 👋</h1>
 
 ###
@@ -85,5 +76,4 @@
   </a>
 </div>
 
-
-
+###
