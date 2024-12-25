@@ -85,8 +85,5 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/gordonzhang1/gordonzhang1/output/snake.svg" alt="Snake animation" />
 
-###
