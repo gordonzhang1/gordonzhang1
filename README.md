@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm full-stack web developer based in Waterloo, ON. <br><br>- 📚  I’m a computer engineering student at the University of Waterloo<br>- 🔭  I'm currently learning more about AI, embedded programming, cloud computing, and improving my skills in full-stack development with technologies like React, Node.js, and TypeScript.<br>- ⚡ In my free time, I enjoy working on personal projects, experimenting with new tech, playing soccer, and participating in hackathons to push my problem-solving skills to the next level.<br>- 📬 You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a><br>- 🚀 See more of my projects at <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>
+<p align="left">I'm full-stack web developer based in Waterloo, ON. <br><br>- 📚  I’m a computer engineering student at the University of Waterloo<br>- 🔭  I'm currently learning more about AI, embedded programming, cloud computing, and improving my skills in full-stack development with technologies like React, Node.js, and TypeScript.<br>- ⚡ In my free time, I enjoy working on personal projects, experimenting with new tech, playing soccer, and participating in hackathons to push my problem-solving skills to the next level.<br>- 📬 You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a><br> - 🖥️ Devpost: <a href="https://devpost.com/gordonz0913" target="_blank">devpost.com/gordonz0913</a><br> - 🚀 Personal Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>
 </p>
 
 ###
