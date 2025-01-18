@@ -60,6 +60,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
 </div>
+
+###
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gordonzhang1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 </div>
 
 ###
@@ -74,11 +79,9 @@
 
 ###
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gordonzhang1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+
+
 
 <h3 align="left">💫  Socials:</h3>
 
