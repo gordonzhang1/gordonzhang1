@@ -6,14 +6,16 @@
 
 ###
 
-<p align="left">I'm a full-stack developer based in Waterloo, ON. <br><br>
-- 📚  Computer engineering student at the University of Waterloo  
-- 🔭  Currently improving my skills in TypeScript, React, NodeJS, Python, and building CI/CD pipelines  
-- ⚡  I enjoy going to hackathons and making personal projects  
-- 📬  You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a>  
-- 🖥️  Devpost: <a href="https://devpost.com/gordonz0913" target="_blank">devpost.com/gordonz0913</a>  
-- 🚀  Personal Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>  
+<p align="left">
+  I'm a full-stack developer based in Waterloo, ON.  
 </p>
+
+- 📚 Computer engineering student at the University of Waterloo  
+- 🔭 Currently improving my skills in TypeScript, React, NodeJS, Python, and building CI/CD pipelines  
+- ⚡ I enjoy going to hackathons and making personal projects  
+- 📬 You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a>  
+- 🖥️ Devpost: <a href="https://devpost.com/gordonz0913" target="_blank">devpost.com/gordonz0913</a>  
+- 🚀 Personal Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>  
 
 ###
 
