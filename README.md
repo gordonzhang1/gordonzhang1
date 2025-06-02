@@ -12,7 +12,7 @@
 
 - 📚 Computer engineering student at the University of Waterloo  
 - 🔭 Currently improving my skills in TypeScript, React, NodeJS, Python, and building CI/CD pipelines  
-- ⚡ I enjoy going to hackathons and making personal projects  
+- ⚡ I enjoy going to hackathons and making personal projects, check them out below!  
 - 📬 You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a>  
 - 🖥️ Devpost: <a href="https://devpost.com/gordonz0913" target="_blank">devpost.com/gordonz0913</a>  
 - 🚀 Personal Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>  
