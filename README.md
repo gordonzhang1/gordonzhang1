@@ -11,11 +11,11 @@
 </p>
 
 - 📚 Computer engineering student at the University of Waterloo  
-- 🔭 Currently improving my skills in TypeScript, React, NodeJS, Python, and building CI/CD pipelines  
+- 🔭 Interning at the Ontario Ministry of Finance as a full stack developer
 - ⚡ I enjoy going to hackathons and making personal projects, check them out below!  
 - 📬 You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a>  
 - 🖥️ Devpost: <a href="https://devpost.com/gordonz0913" target="_blank">devpost.com/gordonz0913</a>  
-- 🚀 Personal Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>  
+- 🚀 Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>  
 
 ###
 
@@ -51,8 +51,6 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="40" alt="webpack logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo" />
   <img width="12" />
