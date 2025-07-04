@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  I'm a full-stack developer based in Waterloo, ON.  
+  I'm a software developer with industry experience in full stack development.  
 </p>
 
 - 📚 Computer engineering student at the University of Waterloo  
