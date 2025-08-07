@@ -1,21 +1,25 @@
 <h1 align="center">Hi Devs! 👋</h1>
 
-###
+---
 
-<h3 align="left">👨‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
+🚀 **Full Stack Developer** • University of Waterloo Computer Engineering  
+🏆 **Hackathon Award Winner** (DeltaHacks 1st Place, GeeseHacks Spur Innovation Fund Winner, Hack the North Sponsor Winner)  
+📊 **Previous Government Software Developer** — Developed web applications to support data analysis at the Ontario Ministry of Finance
 
-<p align="left">
-  I'm a software developer with industry experience in full stack development.  
-</p>
+---
 
-- 📚 Computer engineering student at the University of Waterloo  
-- 🔭 Interning at the Ontario Ministry of Finance as a full stack developer
-- ⚡ I enjoy going to hackathons and making personal projects, check them out below!  
-- 📬 You can reach me at <a href="mailto:g234zhan@uwaterloo.ca">g234zhan@uwaterloo.ca</a>  
-- 🖥️ Devpost: <a href="https://devpost.com/gordonz0913" target="_blank">devpost.com/gordonz0913</a>  
-- 🚀 Portfolio: <a href="https://gordonzhang.ca" target="_blank">gordonzhang.ca</a>  
+### 📌 Quick Facts
+- 🎓 2nd-year Computer Engineering @ University of Waterloo  
+- 💻 Industry experience with **JavaScript, TypeScript, React, Node.js, Express, Python, Azure SQL, and REST APIs**    
+- 📬 **Email:** [g234zhan@uwaterloo.ca](mailto:g234zhan@uwaterloo.ca)  
+- 🖥️ **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
+- 🚀 **Devpost:** [devpost.com/gordonz0913](https://devpost.com/gordonz0913)  
+
+---
+
+💡 _Always building and learning, shipping production-ready systems as well as innovative prototypes._
 
 ###
 
