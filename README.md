@@ -6,7 +6,7 @@
 
 🚀 **Full Stack Developer** • University of Waterloo Computer Engineering  
 🏆 **Hackathon Award Winner** (DeltaHacks 1st Place, GeeseHacks Spur Innovation Fund Winner, Hack the North Sponsor Winner)  
-📊 **Previous Government Software Developer** — Developed web applications to support data analysis at the Ontario Ministry of Finance
+📊 **Previous Government Software Developer** — Developed web applications for data analysis at the Ontario Ministry of Finance
 
 ---
 
