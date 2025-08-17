@@ -19,7 +19,7 @@
 
 ---
 
-💡 _Always building and learning, shipping production-ready systems as well as innovative prototypes._
+💡 _Building bold ideas, one thoughtful line at a time._
 
 ###
 
