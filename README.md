@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 🚀 **Full Stack Developer** • University of Waterloo Computer Engineering  
-🏆 **Hackathon Award Winner** (DeltaHacks 1st Place, GeeseHacks Spur Innovation Fund Winner, Hack the North Sponsor Winner)  
+🏆 **Hackathon Award Winner** (DeltaHacks 1st Place, GeeseHacks Spur Innovation Fund Winner, Hack the North Winner)  
 📊 **Prev SWE @ Canadian Government** — Built web applications for data analysis at the Ontario Ministry of Finance
 
 ---
