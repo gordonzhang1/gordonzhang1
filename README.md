@@ -4,14 +4,14 @@
 
 ## 👨‍💻 About Me
 
-🚀 **Full Stack Developer** • Computer Engineering @ University of Waterloo
+🚀 **Full Stack Developer** • Computer Engineering @ University of Waterloo  
 🏆 **Hackathon Award Winner** (DeltaHacks 1st Place Overall, GeeseHacks Spur Innovation Winner)  
 📊 **Prev SWE @ Canadian Government** — Built web applications for data analysis at the Ontario Ministry of Finance
 
 ---
 
 ### 📌 Quick Facts
-- 🎓 2nd-year Computer Engineering @ University of Waterloo  
+- 🎓 2nd-year student  
 - 💻 Industry experience with **JavaScript, TypeScript, React, Node.js, Express, Python, Azure SQL, and REST APIs**    
 - 📬 **Email:** [g234zhan@uwaterloo.ca](mailto:g234zhan@uwaterloo.ca)  
 - 🖥️ **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
