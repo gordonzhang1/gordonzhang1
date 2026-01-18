@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-🛍️ **SWE Intern @ Shopify** • Marketing Marketing team  
+🛍️ **SWE Intern @ Shopify** • Merchant Marketing team  
 🚀 **Full Stack Developer** • Computer Engineering @ University of Waterloo  
 🏆 **Hackathon Award Winner** • (DeltaHacks 1st Place Overall, GeeseHacks Spur Innovation Winner)  
 📊 **Prev SWE @ Ontario Ministry of Finance** • Developed web app to track and model Ontario's revenue from education property taxes
