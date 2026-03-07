@@ -8,8 +8,6 @@
 
 🚀 **Computer Engineering @ UWaterloo**
 
-🏆 **7x Hackathon Winner**
-
 📊 **Prev SWE @ Ontario Ministry of Finance**
 
 
