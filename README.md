@@ -20,9 +20,6 @@
 - 🖥️ **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
 - 🚀 **Devpost:** [devpost.com/gordonz0913](https://devpost.com/gordonz0913)  
 
----
-
-💡 _Building bold ideas, one thoughtful line at a time._
 
 ###
 
