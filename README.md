@@ -15,7 +15,6 @@
 
 ### 📌 Quick Facts
 - 🎓 2nd-year student  
-- 💻 Industry experience with **JavaScript, TypeScript, React, Node.js, Express, Python, Azure SQL, and REST APIs**    
 - 📬 **Email:** [g234zhan@uwaterloo.ca](mailto:g234zhan@uwaterloo.ca)  
 - 🖥️ **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
 - 🚀 **Devpost:** [devpost.com/gordonz0913](https://devpost.com/gordonz0913)  
