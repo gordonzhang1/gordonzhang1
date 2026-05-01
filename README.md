@@ -4,17 +4,13 @@
 
 ## 👨‍💻 About Me
 
-🛍️ **SWE Intern @ Shopify**
+🛍️ **Prev SWE Intern @ Shopify**
 
 🚀 **Computer Engineering @ UWaterloo**
 
-📊 **Prev SWE @ Ontario Ministry of Finance**
-
-
 ---
 
-### 📌 Quick Facts
-- 🎓 2nd-year student  
+### 📌 Quick Links
 - 📬 **Email:** [g234zhan@uwaterloo.ca](mailto:g234zhan@uwaterloo.ca)  
 - 🖥️ **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
 - 🚀 **Devpost:** [devpost.com/gordonz0913](https://devpost.com/gordonz0913)  
