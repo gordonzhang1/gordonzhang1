@@ -4,18 +4,18 @@
 
 ## 👨‍💻 About Me
 
-🛍️ **Prev SWE Intern @ Shopify**
+ **Prev SWE Intern @ Shopify**
 
-🚀 **Computer Engineering @ UWaterloo**
+ **Computer Engineering @ UWaterloo**
 
-🏆 **7x Hackathon Winner**
+ **7x Hackathon Winner**
 
 ---
 
 ### 📌 Quick Links
-- 📬 **Email:** [g234zhan@uwaterloo.ca](mailto:g234zhan@uwaterloo.ca)  
-- 🖥️ **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
-- 🚀 **Devpost:** [devpost.com/gordonz0913](https://devpost.com/gordonz0913)  
+-  **Email:** [g234zhan@uwaterloo.ca](mailto:g234zhan@uwaterloo.ca)  
+-  **Portfolio:** [gordonzhang.ca](https://gordonzhang.ca)  
+-  **Devpost:** [devpost.com/gordonz0913](https://devpost.com/gordonz0913)  
 
 
 ###
