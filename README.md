@@ -8,8 +8,6 @@
 
  **Computer Engineering @ UWaterloo**
 
- **7x Hackathon Winner**
-
 ---
 
 ### 📌 Quick Links
